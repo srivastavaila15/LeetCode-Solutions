@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
