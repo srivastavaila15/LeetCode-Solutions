@@ -52,4 +52,8 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [2235-add-two-integers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
