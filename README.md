@@ -56,4 +56,9 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+## Array
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
