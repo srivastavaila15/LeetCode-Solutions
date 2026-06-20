@@ -43,6 +43,7 @@
 | [0141-linked-list-cycle](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 ## Stack
 |  |
@@ -57,10 +58,15 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
