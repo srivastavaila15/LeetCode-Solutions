@@ -1,20 +1,22 @@
 class Solution(object):
+    import re
     def isPalindrome(self, s):
         s = s.lower()
-        new_s = ""
-        rev = ""
-        for i in range(len(s)):
-            import re
-            if re.match(r"[a-z0-9]", s[i]):
-                new_s = new_s + s[i]
-        x = len(new_s)-1
-        while x>=0:
-            rev = rev + new_s[x]
-            x = x -1
-        if rev == new_s:
-            return True
-        return False
-        
+        i = 0
+        j = len(s)-1
+        while(i<j):
+            if not re.match(r"[a-z0-9]",s[i]):
+                i = i+1
+            elif not re.match(r"[a-z0-9]",s[j]):
+                j = j - 1
+            elif s[i] == s[j]:
+                i = i+1
+                j = j-1
+            else:
+                return False
+        return True
+
+            
     
                 
         
