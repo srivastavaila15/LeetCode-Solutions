@@ -60,6 +60,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0434-number-of-segments-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
