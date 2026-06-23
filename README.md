@@ -46,6 +46,7 @@
 | [0141-linked-list-cycle](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -76,11 +77,13 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting
