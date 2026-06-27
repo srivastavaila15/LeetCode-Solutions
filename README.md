@@ -64,6 +64,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -126,4 +127,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
