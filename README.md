@@ -79,6 +79,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
