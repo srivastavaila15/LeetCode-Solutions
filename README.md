@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -182,4 +184,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
