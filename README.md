@@ -71,6 +71,7 @@
 | [0225-implement-stack-using-queues](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0389-find-the-difference](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
