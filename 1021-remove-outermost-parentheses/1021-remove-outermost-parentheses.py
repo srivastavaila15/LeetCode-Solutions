@@ -1,15 +1,15 @@
 class Solution(object):
     def removeOuterParentheses(self, s):
-        stack = []
+        level = 0
         ans = ""
         for i in range(len(s)):
             if s[i] == '(':
-                stack.append(s[i])
-                if len(stack) > 1:
+                level = level + 1
+                if level > 1:
                     ans = ans + s[i]
             else:
-                if len(stack) > 1:
+                if level > 1:
                     ans = ans + s[i]
-                stack.pop()
+                level = level - 1
         return ans
         
