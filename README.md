@@ -56,6 +56,7 @@
 | [0219-contains-duplicate-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -97,6 +98,7 @@
 | [0168-excel-sheet-column-title](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
