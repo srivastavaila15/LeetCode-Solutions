@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -81,6 +82,7 @@
 | [0002-add-two-numbers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -118,6 +120,7 @@
 | [0001-two-sum](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0136-single-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
