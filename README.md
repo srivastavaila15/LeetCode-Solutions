@@ -61,6 +61,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -75,6 +76,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -130,6 +132,7 @@
 | [0287-find-the-duplicate-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
