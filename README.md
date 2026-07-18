@@ -92,6 +92,7 @@
 | [0367-valid-perfect-square](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1903-largest-odd-number-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## String
 |  |
@@ -137,6 +138,7 @@
 | [0739-daily-temperatures](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0994-rotting-oranges](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
