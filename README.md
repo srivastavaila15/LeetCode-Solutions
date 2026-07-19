@@ -139,6 +139,7 @@
 | [0496-next-greater-element-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -187,6 +188,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
