@@ -121,6 +121,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
+| [3612-process-string-with-special-operations-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
 | ------- |
