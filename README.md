@@ -94,6 +94,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2235-add-two-integers) |
+| [3536-maximum-product-of-two-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3536-maximum-product-of-two-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
 | ------- |
