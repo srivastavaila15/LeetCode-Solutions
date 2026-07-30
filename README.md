@@ -117,6 +117,7 @@
 | [0402-remove-k-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0709-to-lower-case](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
