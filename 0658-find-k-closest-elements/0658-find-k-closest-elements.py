@@ -1,6 +1,5 @@
 class Solution(object):
     def findClosestElements(self, arr, k, x):
-        subarr = []
         l = 0
         r = len(arr) - 1
         while l < r:
