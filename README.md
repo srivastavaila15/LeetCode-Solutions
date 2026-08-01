@@ -22,6 +22,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -187,6 +189,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
