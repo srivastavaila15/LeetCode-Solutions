@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -138,6 +139,7 @@
 | [0001-two-sum](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -168,6 +170,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0242-valid-anagram) |
