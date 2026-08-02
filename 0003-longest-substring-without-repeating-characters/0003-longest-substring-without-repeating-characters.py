@@ -1,18 +1,19 @@
 class Solution(object):
     def lengthOfLongestSubstring(self, s):
-        freq = {}
-        subs = ""
-        start = 0
-        max_len = 0
-        for end, char in enumerate(s):
-            if char in freq and freq[char] >= start:
-                start = freq[char] + 1
-            freq[char] = end
-            current_len = end - start + 1
-            if current_len> max_len:
-                max_len = current_len
-                subs = s[start:end + 1]
-        return len(subs)
+        map_s = {}
+        mx_ws = 0
+        i = j = 0
+        for j in range(len(s)):
+            if s[j] in map_s and map_s[s[j]] >= i:
+                i = map_s[s[j]] + 1
+            map_s[s[j]] = j
+            ws = j - i + 1
+            if mx_ws < ws:
+                mx_ws = ws
+        return mx_ws
+
+
+
         
             
         
