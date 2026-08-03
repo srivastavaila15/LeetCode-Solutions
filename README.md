@@ -158,6 +158,7 @@
 | [0042-trapping-rain-water](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0136-single-number](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
