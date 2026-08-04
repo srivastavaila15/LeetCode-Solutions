@@ -79,6 +79,7 @@
 | [2540-minimum-common-value](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -184,6 +185,7 @@
 | [2540-minimum-common-value](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2942-find-words-containing-character](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3731-find-missing-elements](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [0658-find-k-closest-elements](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
