@@ -41,6 +41,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -74,6 +75,7 @@
 | [0389-find-the-difference](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2351-first-letter-to-appear-twice](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2540-minimum-common-value](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -139,6 +141,7 @@
 | [0402-remove-k-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
+| [0567-permutation-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -276,6 +279,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Queue
 |  |
