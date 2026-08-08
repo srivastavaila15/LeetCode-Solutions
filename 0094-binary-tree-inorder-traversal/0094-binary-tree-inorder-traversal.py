@@ -6,16 +6,14 @@
 #         self.right = right
 class Solution(object):
     def inorderTraversal(self, root):
-        res = []
-        def traversal(curr):
-            if not curr:
-                return
-            
-            traversal(curr.left)
-            res.append(curr.val)
-            traversal(curr.right)
-        
-        traversal(root)
-        return res
-
-        
+        curr = root
+        stack = [] 
+        ans = []
+        while curr or len(stack):
+            while curr:
+                stack.append(curr)
+                curr = curr.left
+            curr = stack.pop()
+            ans.append(curr.val)
+            curr = curr.right
+        return ans
