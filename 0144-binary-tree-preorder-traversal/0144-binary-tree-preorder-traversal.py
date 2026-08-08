@@ -6,13 +6,15 @@
 #         self.right = right
 class Solution(object):
     def preorderTraversal(self, root):
-        res = []
+        stack = [root] if root else []
+        ans = []
+        while len(stack):
+            curr = stack.pop()
+            ans.append(curr.val)
+            if curr.right:
+                stack.append(curr.right)
+            if curr.left:
+                stack.append(curr.left)
+        return ans
 
-        def traversal(curr):
-            if not curr: return
-            res.append(curr.val)
-            traversal(curr.left)
-            traversal(curr.right)
-        traversal(root)
-        return res
         
