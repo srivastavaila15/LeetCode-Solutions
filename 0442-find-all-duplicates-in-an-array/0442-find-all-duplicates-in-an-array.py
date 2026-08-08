@@ -1,15 +1,12 @@
 class Solution(object):
     def findDuplicates(self, nums):
-        freq = {}
         ans = []
         for num in nums:
-            if num not in freq:
-                freq[num] = 1
+            idx = abs(num) - 1
+
+            if nums[idx] < 0:
+                ans.append(abs(num))
             else:
-                freq[num] += 1
-        
-        for num, val in freq.items():
-            if val > 1:
-                ans.append(num)
+                nums[idx] = -nums[idx]
         return ans
         
