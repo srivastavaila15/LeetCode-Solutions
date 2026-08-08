@@ -6,20 +6,19 @@
 #         self.right = right
 class Solution(object):
     def levelOrder(self, root):
-        if not root: return []
-        queue = deque()
-        queue = [root]
         ans = []
-        while len(queue):
-            lvlArr = []
-            lvlSize = len(queue)
-            for i in range(lvlSize):
-                curr = queue.pop(0)
-                if curr.left:
-                    queue.append(curr.left)
-                if curr.right:
-                    queue.append(curr.right)
-                lvlArr.append(curr.val)
-            ans.append(lvlArr)
+        
+        def traversal(curr, level):
+            if not curr: return
+            if len(ans) == level: 
+                ans.append([])
+            ans[level].append(curr.val)
+            if curr.left:
+                traversal(curr.left, level+1)
+            if curr.right:
+                traversal(curr.right, level+1)
+        traversal(root, 0)
         return ans
+
+
         
