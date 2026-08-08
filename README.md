@@ -73,6 +73,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -140,6 +141,7 @@
 | [0392-is-subsequence](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0424-longest-repeating-character-replacement](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0567-permutation-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0709-to-lower-case) |
@@ -279,6 +281,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/srivastavaila15/LeetCode-Solutions/tree/master/0658-find-k-closest-elements) |
 ## Queue
