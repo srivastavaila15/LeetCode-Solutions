@@ -7,14 +7,7 @@
 class Solution(object):
     def maxDepth(self, root):
         if not root: return 0
-        self.maxDep = 0
-        def traversal(curr, depth):
-            self.maxDep = max(self.maxDep, depth)
-            if not curr: return
-            if curr.left:
-                traversal(curr.left, depth+1)
-            if curr.right:
-                traversal(curr.right, depth+1)
-        traversal(root, 1)
-        return self.maxDep
+        leftMax = self.maxDepth(root.left)
+        rightMax = self.maxDepth(root.right)
+        return 1 + max(leftMax, rightMax)
         
